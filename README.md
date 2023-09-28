@@ -1,6 +1,5 @@
 ### Olá, meu nome é Vitor Vouvouloudas de Moraes! "vouv0" 👋
 
-- 🌱 Estou aprendendo Python e JavaScrip.
 - 📖 Cursando Análise e Desenvolvimento de Sistemas.
 
 ##
