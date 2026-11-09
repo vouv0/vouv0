@@ -1,6 +1,6 @@
 ### Olá, meu nome é Vitor Vouvouloudas de Moraes! "vouv0" 👋
 
-- 📖 Cursando Análise e Desenvolvimento de Sistemas.
+- 📖  Análise e Desenvolvimento de Sistemas.
 
 ##
 <div>
